@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <PrimerApp /> Debe encontrar el texto: 'Hola, Soy Goku' 1`] = `
+<Fragment>
+  <h1>
+     
+    Hola, Soy Goku
+     
+  </h1>
+  <p>
+    Soy un subtitulo
+  </p>
+</Fragment>
+`;
